@@ -1,0 +1,13 @@
+C:\Users\salahdin\Desktop\-net_core_tutorials\bin\Debug\netcoreapp3.1\-net_core_tutorials.exe
+C:\Users\salahdin\Desktop\-net_core_tutorials\bin\Debug\netcoreapp3.1\-net_core_tutorials.deps.json
+C:\Users\salahdin\Desktop\-net_core_tutorials\bin\Debug\netcoreapp3.1\-net_core_tutorials.runtimeconfig.json
+C:\Users\salahdin\Desktop\-net_core_tutorials\bin\Debug\netcoreapp3.1\-net_core_tutorials.runtimeconfig.dev.json
+C:\Users\salahdin\Desktop\-net_core_tutorials\bin\Debug\netcoreapp3.1\-net_core_tutorials.dll
+C:\Users\salahdin\Desktop\-net_core_tutorials\bin\Debug\netcoreapp3.1\-net_core_tutorials.pdb
+C:\Users\salahdin\Desktop\-net_core_tutorials\obj\Debug\netcoreapp3.1\-net_core_tutorials.csprojAssemblyReference.cache
+C:\Users\salahdin\Desktop\-net_core_tutorials\obj\Debug\netcoreapp3.1\-net_core_tutorials.AssemblyInfoInputs.cache
+C:\Users\salahdin\Desktop\-net_core_tutorials\obj\Debug\netcoreapp3.1\-net_core_tutorials.AssemblyInfo.cs
+C:\Users\salahdin\Desktop\-net_core_tutorials\obj\Debug\netcoreapp3.1\-net_core_tutorials.csproj.CoreCompileInputs.cache
+C:\Users\salahdin\Desktop\-net_core_tutorials\obj\Debug\netcoreapp3.1\-net_core_tutorials.dll
+C:\Users\salahdin\Desktop\-net_core_tutorials\obj\Debug\netcoreapp3.1\-net_core_tutorials.pdb
+C:\Users\salahdin\Desktop\-net_core_tutorials\obj\Debug\netcoreapp3.1\-net_core_tutorials.genruntimeconfig.cache
